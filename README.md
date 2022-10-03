@@ -4,6 +4,20 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 [Live Demo](https://delicate-creponne-c69390.netlify.app/)
 
+
+## Deploy To Netlify
+
+Once the dist folder is created :
+
+	Head over to https://www.netlify.com
+	Sign up / Log in
+	Go to the “Sites” tab
+	Scroll down and find the box to upload a folder
+	Drag and drop your dist folder
+	Done!
+	And if you see the random link Netlify gives you, click on that link, 
+	and it will open in the new tab. And guess what, it’s your project!
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
